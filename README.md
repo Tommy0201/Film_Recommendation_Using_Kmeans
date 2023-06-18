@@ -1,6 +1,6 @@
 # Film_Recommendation_Using_Kmeans
 
-#Purpose
+# Purpose
 - To apply k-means clustering, an algorithm I have learnt in Linear Algebra class and use it to create a simple movie recommendation system
 - I only use two main factors for this simple system: users' ratings of movies and movies' genres.
 - The dataset being used is Movielens. It is a commonly used dataset in the field of recommender systems and machine learning 
